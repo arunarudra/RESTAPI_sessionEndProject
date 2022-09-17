@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-17T18:36:09Z" name="Default suite" finished-at="2022-09-17T18:36:15Z" duration-ms="5425">
+    <groups>
+    </groups>
+    <test started-at="2022-09-17T18:36:09Z" name="Default test" finished-at="2022-09-17T18:36:15Z" duration-ms="5425">
+      <class name="RESTAPI.EndToEndTest">
+        <test-method signature="test1()[pri:0, instance:RESTAPI.EndToEndTest@7d286fb6]" started-at="2022-09-17T18:36:09Z" name="test1" finished-at="2022-09-17T18:36:15Z" duration-ms="5401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- RESTAPI.EndToEndTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

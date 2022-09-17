@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6922" started-at="2022-09-17T18:43:51Z" finished-at="2022-09-17T18:43:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6922" started-at="2022-09-17T18:43:51Z" finished-at="2022-09-17T18:43:58Z">
+      <class name="RESTAPI.GETRequestAll">
+        <test-method status="PASS" signature="setup()[pri:0, instance:RESTAPI.GETRequestAll@13c10b87]" name="setup" is-config="true" duration-ms="60" started-at="2022-09-17T18:43:58Z" finished-at="2022-09-17T18:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:RESTAPI.GETRequestAll@13c10b87]" name="test1" duration-ms="4" started-at="2022-09-17T18:43:58Z" finished-at="2022-09-17T18:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:RESTAPI.GETRequestAll@13c10b87]" name="setup" is-config="true" duration-ms="54" started-at="2022-09-17T18:43:58Z" finished-at="2022-09-17T18:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:RESTAPI.GETRequestAll@13c10b87]" name="test2" duration-ms="0" started-at="2022-09-17T18:43:58Z" finished-at="2022-09-17T18:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- RESTAPI.GETRequestAll -->
+      <class name="RESTAPI.EndToEndTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:RESTAPI.EndToEndTest@22635ba0]" name="test1" duration-ms="3564" started-at="2022-09-17T18:43:54Z" finished-at="2022-09-17T18:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- RESTAPI.EndToEndTest -->
+      <class name="RESTAPI.POSTRequest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:RESTAPI.POSTRequest@1df82230]" name="setup" is-config="true" duration-ms="3211" started-at="2022-09-17T18:43:51Z" finished-at="2022-09-17T18:43:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:RESTAPI.POSTRequest@1df82230]" name="test2" duration-ms="3" started-at="2022-09-17T18:43:54Z" finished-at="2022-09-17T18:43:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- RESTAPI.POSTRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
